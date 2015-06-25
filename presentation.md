@@ -1,4 +1,4 @@
-Fueleconomy Slidify App
+Fueleconomy Shiny App
 ========================================================
 author: Chris Little
 date: June 21, 2015
@@ -20,25 +20,25 @@ and incorporates information about each car, such as:
 - Transmission, drive train, & other engine information
 - City & highway MPG
 
-Fueleconomy Slidify App
+Fueleconomy Shiny App
 ========================================================
 
 
 But this data is difficult to wade through and visualize.
 
-Enter the [Fueleconomy Slidify App](https://chrislit.shinyapps.io/fueleconomy).
+Enter the [Fueleconomy Shiny App](https://chrislit.shinyapps.io/fueleconomy).
 
-The Fueleconomy Slidify App presents MPG data for the cars in the fueleconomy
+The Fueleconomy Shiny App presents MPG data for the cars in the fueleconomy
 set as a function of their model year, and plots the values in an attractive
 graph that indicates each vehicle's fuel type.
 
-Example Fueleconomy Slidify plot
+Example Fueleconomy Shiny plot
 ========================================================
 ![plot of chunk unnamed-chunk-2](presentation-figure/unnamed-chunk-2-1.png) 
 
 Fine-tuning options
 ========================================================
-Further, the Fueleconomy Slidify Plot allows you to adjust the combined MPG formula (55% city MPG, 45% highway MPG by default).
+Further, the Fueleconomy Shiny Plot allows you to adjust the combined MPG formula (55% city MPG, 45% highway MPG by default).
 
 The 2014 Ford Taurus gets 32 Hwy/22 Cty MPG, or, a combined MPG of:
 
